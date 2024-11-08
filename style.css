@@ -21,6 +21,7 @@ body{
     115px 78px 83px rgba(0, 0, 0, 0.047);
     color: white;
     z-index: 99;
+    font-family: serif;
 }
 #art_store{
     position: relative;
